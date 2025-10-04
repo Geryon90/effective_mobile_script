@@ -25,7 +25,7 @@ sudo chown monitor:monitor /var/lib/monitor_test
 sudo chmod 750 /var/lib/monitor_test
 sudo touch /var/log/monitoring.log
 sudo chown monitor:monitor /var/log/monitoring.log
-sudo chmod 640 /var/log/monitoring.log
+sudo chmod 640 /var/log/monitoring.log```
 
 
 # Notes:
