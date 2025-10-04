@@ -28,7 +28,7 @@ sudo chown monitor:monitor /var/log/monitoring.log
 sudo chmod 640 /var/log/monitoring.log
 
 
-## Notes:
+# Notes:
 
 The script itself does not create the monitor user.
 
